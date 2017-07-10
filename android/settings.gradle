@@ -1,0 +1,3 @@
+rootProject.name = 'kickstand'
+
+include ':app'
